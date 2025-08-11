@@ -11,3 +11,7 @@ Each project is self-contained, easy to run, and comes with clear comments so yo
    A fun console-based game where the computer randomly picks a number within your chosen range, and you have 7 chances to guess it.  
    Hints like "Too high" or "Too low" make it exciting and interactive.
 
+2. **Rock Paper Scissors** ✊✋✌  
+   Play the classic game against the computer. The winner is decided based on the traditional rules.
+
+
