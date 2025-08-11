@@ -14,4 +14,7 @@ Each project is self-contained, easy to run, and comes with clear comments so yo
 2. **Rock Paper Scissors** ✊✋✌  
    Play the classic game against the computer. The winner is decided based on the traditional rules.
 
+3. **Typing Speed Test** ⌨️
+   The Typing Speed Test is a fun Python project that challenges users to type a randomly displayed sentence as quickly and accurately as possible. 
+
 
